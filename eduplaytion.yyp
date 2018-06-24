@@ -194,7 +194,7 @@
             "Key": "8206dcff-6e75-4a75-915a-e1baadec9a40",
             "Value": {
                 "id": "86420773-136d-4f54-9906-14024ab7dffb",
-                "resourcePath": "objects\\obj_math\\obj_math.yy",
+                "resourcePath": "objects\\obj_controller\\obj_controller.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -215,14 +215,6 @@
             }
         },
         {
-            "Key": "8ec70d74-2975-4b45-a141-444596e47aa7",
-            "Value": {
-                "id": "4ea9ad1d-b85b-4965-a744-f808fd8828e6",
-                "resourcePath": "objects\\obj_spawner\\obj_spawner.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "94cb52e1-5f1a-4830-865f-2e0d22b78218",
             "Value": {
                 "id": "bf7b19f4-6450-4266-861f-ea9e8cb27fdd",
@@ -236,6 +228,14 @@
                 "id": "5d667245-baad-47f2-a761-2147fc214cd3",
                 "resourcePath": "objects\\obj_enemy1\\obj_enemy1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "aa958c9c-66df-4fb6-ac94-bc6ca061de42",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
             }
         },
         {
@@ -311,14 +311,6 @@
             }
         },
         {
-            "Key": "de584c26-5678-4f86-a4fc-97b2d15cdc5e",
-            "Value": {
-                "id": "772e53e1-4ed6-40e6-af0d-d3f11ce645c6",
-                "resourcePath": "objects\\obj_score\\obj_score.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "df6697b0-6bb0-4ac2-ae0b-41f7566a314d",
             "Value": {
                 "id": "38e9ebda-4682-479e-ae96-e7f89a4772bc",
@@ -343,14 +335,6 @@
             }
         },
         {
-            "Key": "e78fb62e-fa40-4ea8-9363-5d278fc88740",
-            "Value": {
-                "id": "0f126c41-0445-42aa-b72a-9e6b42a09dbf",
-                "resourcePath": "objects\\obj_collision\\obj_collision.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "ea7cf2cf-7504-4fe4-8d56-e216e9e23c62",
             "Value": {
                 "id": "b3614cb0-56f4-4c51-af2c-030ad1b55c3d",
@@ -372,6 +356,14 @@
                 "id": "704eadd3-baf4-4d71-9026-675252632c4d",
                 "resourcePath": "views\\f27eeea1-190a-4b66-a9c9-04da71bb0697.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "13c76468-7aba-46db-98fb-cd1cd9c77426",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         },
         {
