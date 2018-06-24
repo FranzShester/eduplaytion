@@ -5,7 +5,7 @@
     "name": "obj_enemy1",
     "eventList": [
         {
-            "id": "07fb6c50-53e9-4a90-9bf8-7a8567357d55",
+            "id": "a1446b90-cd82-4e92-8746-ced7049aedef",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "9c58b820-c730-4721-846e-d968e934a52c"
         },
         {
-            "id": "e4c0305b-a06d-4149-95f6-a321a39c79b3",
+            "id": "44953edc-c8ce-4b88-afe1-8fa24a6a1c72",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -25,7 +25,7 @@
             "m_owner": "9c58b820-c730-4721-846e-d968e934a52c"
         },
         {
-            "id": "63fa0b22-8502-4b3d-bddb-bbecb4c18a35",
+            "id": "f2511ccb-b436-4d5d-9359-b5c1a8207a13",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -35,7 +35,7 @@
             "m_owner": "9c58b820-c730-4721-846e-d968e934a52c"
         },
         {
-            "id": "97e0fb63-afff-4ba8-9824-0c6ee556d5e3",
+            "id": "4e544020-0456-4599-8c03-79a1aaae2206",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -45,13 +45,23 @@
             "m_owner": "9c58b820-c730-4721-846e-d968e934a52c"
         },
         {
-            "id": "a95cbc8c-2e50-4e15-a6eb-fa6c7e593ddc",
+            "id": "0b8ce72e-65ca-47dc-9a6c-165f6fb8784c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 1,
             "eventtype": 2,
+            "m_owner": "9c58b820-c730-4721-846e-d968e934a52c"
+        },
+        {
+            "id": "901dd632-8956-463d-a623-5790b664f1ab",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
             "m_owner": "9c58b820-c730-4721-846e-d968e934a52c"
         }
     ],

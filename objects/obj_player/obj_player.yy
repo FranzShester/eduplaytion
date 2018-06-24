@@ -5,7 +5,7 @@
     "name": "obj_player",
     "eventList": [
         {
-            "id": "92ae2402-218b-47a1-8b6c-78373a1188d6",
+            "id": "1cccb851-9f42-4975-a06e-82b0f77b2bf2",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "ac0b62da-2e20-4169-9bd1-e5c46a2490cf"
         },
         {
-            "id": "4d3eb0d0-e99b-4ec0-b020-c466cad1986e",
+            "id": "6b48c558-f411-443a-bed3-3479d91eb802",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -25,7 +25,7 @@
             "m_owner": "ac0b62da-2e20-4169-9bd1-e5c46a2490cf"
         },
         {
-            "id": "05c883fc-3daa-4c03-82d7-fd894ba3c0fe",
+            "id": "e50d2d8f-952b-4569-b10d-fa9e8a31b237",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

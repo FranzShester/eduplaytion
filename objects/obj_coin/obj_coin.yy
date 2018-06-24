@@ -5,7 +5,7 @@
     "name": "obj_coin",
     "eventList": [
         {
-            "id": "70e8393a-09ba-4f7d-9d30-e075aebf951b",
+            "id": "9fc44b25-6217-4b3a-a3a2-d357598e76e4",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "0ce41312-78cc-46d8-9f85-26ad51b790c4"
         },
         {
-            "id": "41c70d91-810b-46ee-9b99-8761fc7e1c98",
+            "id": "e798bedd-5b56-4087-96e9-f1ea9267c46e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

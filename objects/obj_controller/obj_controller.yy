@@ -5,7 +5,7 @@
     "name": "obj_controller",
     "eventList": [
         {
-            "id": "45e96840-08e6-478f-b770-214e7ce43d1d",
+            "id": "6c68d128-9018-4b53-86b9-adf68888eb35",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "8206dcff-6e75-4a75-915a-e1baadec9a40"
         },
         {
-            "id": "05abe861-f050-4ce1-87d2-78942dda7eb3",
+            "id": "a904f372-b2e3-48ef-a6ab-58fd90d4e1d0",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -25,7 +25,7 @@
             "m_owner": "8206dcff-6e75-4a75-915a-e1baadec9a40"
         },
         {
-            "id": "dda67ba5-4984-431b-b440-e1e00209bb0b",
+            "id": "4e8ec07c-104f-43e8-a468-2d9c202c32af",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -35,7 +35,7 @@
             "m_owner": "8206dcff-6e75-4a75-915a-e1baadec9a40"
         },
         {
-            "id": "29c63190-69a4-4897-bf87-7b0aae3bcac6",
+            "id": "f2b2dbc5-9215-4ef3-a950-6c31657cc99a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

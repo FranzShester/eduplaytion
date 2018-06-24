@@ -5,7 +5,7 @@
     "name": "obj_playerExplosion",
     "eventList": [
         {
-            "id": "fb1a3af2-7f41-40cb-8e51-2847eb9eb6a2",
+            "id": "e497fd43-a613-4a9b-a393-a05629100fba",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

@@ -7,10 +7,9 @@ if (y >= 45) {
 	paso0 = true;
 }
 //q pasa cuando el mono se muere
-if (hp == (global.math_operation_a + global.math_operation_b)) {
+if (hp == 0) {
 	score += 10;
-	global.math_operation_a = irandom_range(1,5);
-	global.math_operation_b = irandom_range(0,5);
+	operations_next();
 	
 	audio_sound_pitch(snd_explosion, 1.4); //sonido al explotar
     audio_play_sound(snd_explosion,1,0);
