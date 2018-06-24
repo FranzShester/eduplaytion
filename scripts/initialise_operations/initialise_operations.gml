@@ -18,10 +18,7 @@ repeat(global.math_operations_max) {
 }
 
 //Load first operation
-//get the operation
-var next_operation = global.math_operations_list[| 0];
-
-//load the operation
-global.math_operation_a = next_operation[| 0];
-global.math_operation_b = next_operation[| 1];
+var firstop = global.math_operations_list[| 0];
+global.math_operation_a = firstop[| 0];
+global.math_operation_b = firstop[| 1];
 global.math_answer = operations_get_answer(0);

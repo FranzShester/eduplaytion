@@ -14,4 +14,3 @@ if (y >= 0) {
 	instance_create_layer(other.x-45,other.y-10,"efectos", obj_explosions); //explosion al impactar con el enemigo
 	with(other) { instance_destroy(); }// se destruye la bala 
 }
-

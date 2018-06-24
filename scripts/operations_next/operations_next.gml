@@ -1,5 +1,6 @@
 /// @function operations_next()
 /// @description Load the next operation in the list into the global variables
+
 //delete the previous operation from the list
 ds_list_delete(global.math_operations_list,0);
 

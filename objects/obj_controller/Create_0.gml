@@ -1,3 +1,4 @@
+randomize();
 initialise_operations();
 
 operation_text = "";

@@ -1,7 +1,12 @@
-/// @description Insert description here
-// You can write your code in this editor
-randomize();
 cooldown = 0;
-velocity_spd = 4;
-collisionSpeed = velocity_spd +2;
+vx = 0;
+vy = 0;
+max_spd = 10;
+v_friction = 0.8;
 frozen = false;
+x_input = 0;
+y_input = 0;
+y_offset = 0;
+y_lerp = 0;
+image_angle = 0;
+image_speed = 0.5;
