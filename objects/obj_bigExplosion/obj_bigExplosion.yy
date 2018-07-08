@@ -5,7 +5,7 @@
     "name": "obj_bigExplosion",
     "eventList": [
         {
-            "id": "c746eef9-061b-468b-a040-0de93e4848e3",
+            "id": "65790b8b-d04e-4825-971a-6333b0999be8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

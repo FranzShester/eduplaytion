@@ -1,6 +1,6 @@
-hp = 0;
+hp = 2;
 spd = choose(2,2.5,3);
-paso0 = false;
-alarm[1] = choose(180,240,300);
 dropChance = choose(0,1,2);
-//hello german
+number = 0;
+alarm[2] = choose(3000,1400,1800,2400);
+path_start(pth_enemy1, spd, path_action_continue, 0);

@@ -5,7 +5,7 @@
     "name": "obj_brillo",
     "eventList": [
         {
-            "id": "0a1e4286-e68e-4407-9733-730a1a135e80",
+            "id": "efc27042-7d8f-4e88-a750-91314ae70958",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
