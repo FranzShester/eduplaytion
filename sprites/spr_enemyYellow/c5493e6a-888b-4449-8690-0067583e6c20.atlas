@@ -1,0 +1,27 @@
+
+amarillo.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+brazo derecho
+  rotate: false
+  xy: 2, 2
+  size: 489, 958
+  orig: 489, 958
+  offset: 0, 0
+  index: -1
+brazo izquierdo
+  rotate: false
+  xy: 493, 2
+  size: 484, 958
+  orig: 484, 958
+  offset: 0, 0
+  index: -1
+cara
+  rotate: false
+  xy: 979, 9
+  size: 411, 951
+  orig: 411, 951
+  offset: 0, 0
+  index: -1

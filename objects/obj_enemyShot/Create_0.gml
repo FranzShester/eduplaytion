@@ -2,3 +2,4 @@
 // You can write your code in this editor
 direction = point_direction(x, y, obj_player.x, obj_player.y);
 speed = 3;
+image_speed = 3;

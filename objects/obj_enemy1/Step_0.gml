@@ -1,7 +1,6 @@
 //movimiento del enemigo, conjunto con alarm1 
-if (hp == 0) {
+if ((hp <= 0) || (y >=room_height+100)) {
 	score += 10;
-	operations_next();
 	
 	audio_sound_pitch(snd_explosion, 1.4); //sonido al explotar
     audio_play_sound(snd_explosion,1,0);

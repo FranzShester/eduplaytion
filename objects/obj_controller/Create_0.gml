@@ -1,10 +1,14 @@
 randomize();
 initialise_operations();
 
-operation_text = "";
+global.playerEnergy = 600;
+global.shake = false;
 
-spawnrate = 60;
-alarm[0] = spawnrate;
+operation_text = "";
+playerMaxEnergy = 600;
+energyUP = false;
+tope = 600;
+
 
 score= 0;
 score_text = "";

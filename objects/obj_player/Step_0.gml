@@ -26,8 +26,17 @@ if (!frozen) {
 	
 	//shooting
 	if (keyboard_check(vk_space) && (cooldown < 1)) {
-		instance_create_layer(x,y-90,layer, obj_bullet);
-		cooldown = 20;
+		if (global.playerEnergy > 0) {
+			instance_create_layer(x,y-90,layer, obj_bullet);
+			instance_create_layer(x-0.5,y-85,layer, obj_shootFlash);
+			cooldown = 20;
+		}
+		else {
+			instance_create_layer(x,y-50,layer, obj_smoke);
+			instance_create_layer(x-2,y-90,layer, obj_smokeNE);
+			cooldown = 40;
+		}
+		
 		y_offset = 10;
 		alarm[0] = 5;
 	}
@@ -46,3 +55,7 @@ if ((y == 620) && frozen) {
 
 y_lerp = lerp(y_lerp,y_offset,0.2);
 image_angle = -vx/2;
+
+if (invincible == 0) {
+	alfa = 1;
+}

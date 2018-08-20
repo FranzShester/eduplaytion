@@ -1,5 +1,5 @@
 /// @description Insert description here
-if (!frozen) {
+if ((!frozen) && (invincible == 0)) {
 
 	score -= 20;
 	audio_sound_pitch(snd_explosion, 0.8); //sonido al explotar
@@ -10,6 +10,9 @@ if (!frozen) {
 	vx = 0;
 	vy = 0;
 	frozen = true;
+	invincible = 1;
+	alarm[1] = 240;
+	alarm[2] = 1;
 	sprite_index = spr_player;
 	move_towards_point(x,400,2);
 }
